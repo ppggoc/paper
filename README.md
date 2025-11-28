@@ -1,4 +1,5 @@
-# O uso de grandes modelos de linguagem (LLMs) no mapeamento semântico em processos OBDA
+# O USO DE GRANDES MODELOS DE LINGUAGEM PARA MAPEAMENTO SEMÂNTICO EM PROCESSOS OBDA
+## The use of large language models for semantic mapping in OBDA processes
 **Programa de Pós-Graduação em Gestão e Organização do Conhecimento (PPGGOC)**  
 **Escola de Ciência da Informação (ECI) da Universidade Federal de Minas Gerais (UFMG)**
 
